@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace App.Entities
 {
-    public class Artista
+    public class Artist
     {
         public int ArtistId { get; set; }
         public string Name { get; set; }
